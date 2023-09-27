@@ -1,0 +1,46 @@
+	body{
+	margin:0;
+	padding:0;
+	font-family:sans-serif;
+	font-size:16px;
+	}
+	article{
+	
+	margin-right:0px;
+	padding:0;
+	text align: left;
+	float:right;
+	width:75%
+	
+
+	}
+	
+	article p{
+	line-height=1.5;
+	}
+
+	
+	
+	ul{
+	text-align:left;
+	padding:0px;
+	float:left;
+	width:20%;
+	margin:0px;
+	list-style:none;
+	
+	}
+	ul li{
+	padding:0px;
+	margin-bottom:50px;
+	display:block;
+	background-color:yellow;
+	}
+	
+	img{
+	width:100%;
+	max-width:50%
+	float:center;
+	height:auto;
+	}
+	
